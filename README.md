@@ -1,6 +1,6 @@
 # Proyecto laberinto con motor de reglas
 
-Se realiza proyecto para elaborar un laberinto donde el programa mueva un cuadro azul por un laberinto representado por cuadros blanco y negros donde los cuadros negros representan los obstáculos y este debe moverse entre los cuadros blanco
+Se realiza proyecto para elaborar un laberinto donde el programa mueva un cuadro azul por un laberinto representado por cuadros blanco y negros donde los cuadros negros representan los obstáculos y este debe moverse entre los cuadros blanco haciendo uso de un motor reglas como experta
 
 
 
