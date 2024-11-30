@@ -3,4 +3,5 @@ Una vez clonado el repositorio se deben de correr estos comandos
        ```bash
        pip install -r requirements.txt
 2)	Luego ejecutamos el siguiente comando para ejecutar el programa 
-       python main.py
+       ```bash
+  	python main.py
